@@ -1,2 +1,2 @@
-# word_frequency
-Using web scraping and NLP to find the most frequent words in classic literature: Herman Melville's novel, Moby Dick.
+# Word Frequency in Moby Dick
+Scraping a novel from an html file taken from the website Project Gutenberg (which contains a large corpus of books) using the Python requests package. Then extracting text from this web data using the BeautifulSoup library. Finally, Analyzing the distribution of words using the Natural Language ToolKit (nltk), to gain insights on textual data and lay the groundwork for deeper analysis.
